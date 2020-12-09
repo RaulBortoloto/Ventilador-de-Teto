@@ -1,2 +1,2 @@
-# Projeto De Simulação Ventilador de Teto
+# Projeto de Simulação de um Ventilador de Teto
 
